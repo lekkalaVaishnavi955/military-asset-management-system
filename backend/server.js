@@ -15,7 +15,7 @@ import assetAssignmentRouter from './routes/assetAssignment.routes.js';
 import baseAssetRouter from "./routes/baseAsset.routes.js";
 import assetExpenditureRouter from "./routes/assetExpenditure.routes.js";
 dotenv.config();
-const allowesOrgin =['http://localhost:5173' ]
+const allowesOrgin =['http://localhost:5173' ,'http://localhost:4173']
 const app=express();
 const port = process.env.PORT || 4000;
 app.use(express.json());
