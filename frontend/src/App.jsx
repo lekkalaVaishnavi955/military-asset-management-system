@@ -6,7 +6,7 @@ import PurchasesPage from './pages/purchases/PurchasesPage';
 import TransfersPage from './pages/transfers/TransfersPage';
 import AssignmentPage from './pages/assignments/AssignmentPage';
 import PersonnelPage from './pages/personnel/PersonnelPage';
-import UserPage from './pages/Userpage';
+import UserPage from './pages/UserPage';
 import DashboardLayout from './components/DashboardLayout';
 import AssetExpenditurePage from './pages/expendtitures/AssetExpenditurePage';
 import BasePage from './pages/BasePage';
